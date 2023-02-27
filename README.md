@@ -16,3 +16,4 @@ The scatter plot shows that the correlation between mouse weight and the average
 ### Summary Statistics
 
 ![alt text](https://github.com/TaiShan16/Matplotlib/blob/main/Images/summary%20stat.PNG)]
+
