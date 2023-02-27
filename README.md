@@ -21,4 +21,7 @@ The scatter plot shows that the correlation between mouse weight and the average
 ![alt text](https://github.com/TaiShan16/Matplotlib/blob/main/Images/Bar%20Chart%202.PNG)]
 
 ### Male vs Female Mice Distribution
-![alt text](https://github.com/TaiShan16/Matplotlib/blob/main/Images/pie%20chart.PNG)]
+
+
+### Distrubution of The Tumor Volume for Four regimens: Capomulin, Ramicane, Infubinol, and Ceftamin
+![alt text](https://github.com/TaiShan16/Matplotlib/blob/main/Images/box%20plot.PNG)
