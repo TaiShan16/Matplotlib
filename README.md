@@ -19,3 +19,6 @@ The scatter plot shows that the correlation between mouse weight and the average
 
 ### Number of Mice Tested per Drug Regimens
 ![alt text](https://github.com/TaiShan16/Matplotlib/blob/main/Images/Bar%20Chart%202.PNG)]
+
+### Male vs Female Mice Distribution
+![alt text](https://github.com/TaiShan16/Matplotlib/blob/main/Images/pie%20chart.PNG)]
