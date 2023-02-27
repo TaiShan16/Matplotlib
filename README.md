@@ -17,3 +17,5 @@ The scatter plot shows that the correlation between mouse weight and the average
 
 ![alt text](https://github.com/TaiShan16/Matplotlib/blob/main/Images/summary%20stat.PNG)]
 
+### Number of Mice Tested per Drug Regimens
+![alt text](https://github.com/TaiShan16/Matplotlib/blob/main/Images/Bar%20Chart%202.PNG]
