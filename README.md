@@ -28,3 +28,7 @@ The scatter plot shows that the correlation between mouse weight and the average
 ### Distrubution of The Tumor Volume for Four regimens: Capomulin, Ramicane, Infubinol, and Ceftamin
 
 ![alt text](https://github.com/TaiShan16/Matplotlib/blob/main/Images/box%20plot.PNG)
+
+### Timepoint vs Tumor Volume of Mouse ID# l509
+
+![alt text](https://github.com/TaiShan16/Matplotlib/blob/main/Images/line%20chart.PNG)
