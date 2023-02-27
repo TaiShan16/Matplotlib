@@ -32,3 +32,12 @@ The scatter plot shows that the correlation between mouse weight and the average
 ### Timepoint vs Tumor Volume of Mouse ID# l509
 
 ![alt text](https://github.com/TaiShan16/Matplotlib/blob/main/Images/line%20chart.PNG)
+
+### Average mouse weight and tumor volumn (mm3)
+![alt text](https://github.com/TaiShan16/Matplotlib/blob/main/Images/scatter%20plot.PNG)
+
+
+### Correlation between Average mouse weight and tumor volumn (mm3)
+![alt text](https://github.com/TaiShan16/Matplotlib/blob/main/Images/correlation.PNG)
+
+
